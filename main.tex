@@ -1,6 +1,6 @@
 \PassOptionsToPackage{hyphens}{url}
 \documentclass{article}
-\usepackage{neurips_2026}
+\usepackage[preprint]{neurips_2026}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -23,12 +23,17 @@
 
 \hypersetup{
   pdftitle={Neural Network Training as Key Search Across Resolution Bands},
+  pdfauthor={Jurij Jukic},
   hidelinks,
   pdfcreator={LaTeX}
 }
 
 \title{Neural Network Training as Key Search Across Resolution Bands}
-\author{Anonymous Author(s)}
+\author{%
+  Jurij Juki\'c\\
+  Independent Researcher\\
+  \texttt{j.jjukicc@gmail.com}
+}
 \date{}
 
 \begin{document}
@@ -903,14 +908,15 @@ baseline fixes $\beta=1$ and has $p=2$ parameters $(A,\omega)$.
 \subsection{Software and AI Assistance}\label{app:software}
 
 PyTorch 2.7.1, HuggingFace Datasets, NumPy, Pandas, SciPy, PIL. Fitting
-uses \texttt{scipy.optimize.}\allowbreak\texttt{least\_squares}. Code and derived clean
-artifacts are available in an anonymized repository at
-\url{https://anonymous.4open.science/r/paper_anon_review-1371/};
-heavyweight checkpoints and panel dumps are referenced by manifests and
+uses \texttt{scipy.optimize.}\allowbreak\texttt{least\_squares}. Public code and derived
+clean artifacts are available at
+\url{https://github.com/jurij-jukic/key_search_paper_code}; public paper source
+is available at \url{https://github.com/jurij-jukic/key_search_paper}.
+Heavyweight checkpoints and panel dumps are referenced by manifests and
 can be materialized separately.
 
 OpenAI's GPT 5.4 and 5.5 were used for orchestrating training runs,
-and writing all the code in the repo. Writing this paper was assisted by
+and writing the analysis code. Writing this paper was assisted by
 Anthropic's Claude 4.6, 4.7, and OpenAI's GPT 5.4 and 5.5.
 
 \subsection{Hardware and Runtime}\label{app:hardware-runtime}
