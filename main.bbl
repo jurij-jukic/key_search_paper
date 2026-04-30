@@ -1,0 +1,80 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bahri et~al.(2024)Bahri, Dyer, Kaplan, Lee, and
+  Sharma]{bahri2024explaining}
+Yasaman Bahri, Ethan Dyer, Jared Kaplan, Jaehoon Lee, and Utkarsh Sharma.
+\newblock Explaining neural scaling laws.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 121\penalty0
+  (27):\penalty0 e2311878121, 2024.
+\newblock \doi{10.1073/pnas.2311878121}.
+
+\bibitem[Bennett(1988)]{bennett1988logical}
+Charles~H. Bennett.
+\newblock Logical depth and physical complexity.
+\newblock In Rolf Herken, editor, \emph{The Universal Turing Machine: A
+  Half-Century Survey}, pages 227--257. Oxford University Press, 1988.
+
+\bibitem[Gur-Ari et~al.(2018)Gur-Ari, Roberts, and Dyer]{gurari2018gradient}
+Guy Gur-Ari, Daniel~A. Roberts, and Ethan Dyer.
+\newblock Gradient descent happens in a tiny subspace.
+\newblock \emph{arXiv preprint arXiv:1812.04754}, 2018.
+
+\bibitem[Hoang and Guerraoui(2018)]{hoang2018deep}
+L{\^e}~Nguy{\^e}n Hoang and Rachid Guerraoui.
+\newblock Deep learning works in practice. {But} {Does} it work in theory?
+\newblock \emph{arXiv preprint arXiv:1801.10437}, 2018.
+
+\bibitem[Hoffmann et~al.(2022)Hoffmann, Borgeaud, Mensch, Buchatskaya, Cai,
+  Rutherford, Casas, Hendricks, Welbl, Clark, Hennigan, Noland, Millican,
+  Driessche, Damoc, Guy, Osindero, Simonyan, Elsen, Rae, Vinyals, and
+  Sifre]{hoffmann2022training}
+Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor
+  Cai, Eliza Rutherford, Diego de~Las Casas, Lisa~Anne Hendricks, Johannes
+  Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van~den
+  Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich
+  Elsen, Jack~W. Rae, Oriol Vinyals, and Laurent Sifre.
+\newblock Training compute-optimal large language models.
+\newblock \emph{arXiv preprint arXiv:2203.15556}, 2022.
+
+\bibitem[Kaplan et~al.(2020)Kaplan, McCandlish, Henighan, Brown, Chess, Child,
+  Gray, Radford, Wu, and Amodei]{kaplan2020scaling}
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom~B. Brown, Benjamin Chess, Rewon
+  Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+\newblock Scaling laws for neural language models.
+\newblock \emph{arXiv preprint arXiv:2001.08361}, 2020.
+
+\bibitem[Li et~al.(2018)Li, Xu, Taylor, Studer, and
+  Goldstein]{li2018visualizing}
+Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, and Tom Goldstein.
+\newblock Visualizing the loss landscape of neural nets.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~31, 2018.
+
+\bibitem[Rahaman et~al.(2019)Rahaman, Baratin, Arpit, Draxler, Lin, Hamprecht,
+  Bengio, and Courville]{rahaman2019spectral}
+Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred~A.
+  Hamprecht, Yoshua Bengio, and Aaron Courville.
+\newblock On the spectral bias of neural networks.
+\newblock In \emph{Proceedings of the 36th International Conference on Machine
+  Learning}, volume~97 of \emph{Proceedings of Machine Learning Research},
+  pages 5301--5310. PMLR, 2019.
+
+\bibitem[Sharma and Kaplan(2022)]{sharma2022scaling}
+Utkarsh Sharma and Jared Kaplan.
+\newblock Scaling laws from the data manifold dimension.
+\newblock \emph{Journal of Machine Learning Research}, 23\penalty0
+  (9):\penalty0 1--34, 2022.
+
+\bibitem[Xu et~al.(2020)Xu, Zhang, Luo, Xiao, and Ma]{xu2020frequency}
+Zhi-Qin~John Xu, Yaoyu Zhang, Tao Luo, Yanyang Xiao, and Zheng Ma.
+\newblock Frequency principle: Fourier analysis sheds light on deep neural
+  networks.
+\newblock \emph{Communications in Computational Physics}, 28\penalty0
+  (5):\penalty0 1746--1767, 2020.
+
+\end{thebibliography}
